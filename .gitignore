@@ -1,0 +1,7 @@
+*.pyc
+virtual/
+week.json
+weeks_epl.json
+demoCrawler
+spiders
+core.py
