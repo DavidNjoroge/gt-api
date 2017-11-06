@@ -1,0 +1,43 @@
+[{
+  "week": [{
+    "date": ["Saturday 28 Oct 2017"],
+    "home": ["Manchester United"],
+    "away": "Tottenham Hotspur"
+  }, {
+    "date": ["Saturday 28 Oct 2017"],
+    "home": ["Watford"],
+    "away": "Stoke City"
+  }, {
+    "date": ["Saturday 28 Oct 2017"],
+    "home": ["West Bromwich Albion"],
+    "away": "Manchester City"
+  }, {
+    "date": ["Saturday 28 Oct 2017"],
+    "home": ["Liverpool"],
+    "away": "Huddersfield Town"
+  }, {
+    "date": ["Saturday 28 Oct 2017"],
+    "home": ["Arsenal"],
+    "away": "Swansea City"
+  }, {
+    "date": ["Saturday 28 Oct 2017"],
+    "home": ["Crystal Palace"],
+    "away": "West Ham United"
+  }, {
+    "date": ["Sunday 29 Oct 2017"],
+    "home": ["AFC Bournemouth"],
+    "away": "Chelsea"
+  }, {
+    "date": ["Sunday 29 Oct 2017"],
+    "home": ["Brighton & Hove Albion"],
+    "away": "Southampton"
+  }, {
+    "date": ["Monday 30 Oct 2017"],
+    "home": ["Leicester City"],
+    "away": "Everton"
+  }, {
+    "date": ["Tuesday 31 Oct 2017"],
+    "home": ["Burnley"],
+    "away": "Newcastle United"
+  }]
+}]

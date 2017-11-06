@@ -1,0 +1,1673 @@
+[{
+    "week": "Week 1",
+    "matches": [{
+      "date": ["Saturday 12 Aug 2017"],
+      "home": ["Arsenal"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Saturday 12 Aug 2017"],
+      "home": ["Watford"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Saturday 12 Aug 2017"],
+      "home": ["West Bromwich Albion"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Saturday 12 Aug 2017"],
+      "home": ["Southampton"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Saturday 12 Aug 2017"],
+      "home": ["Chelsea"],
+      "away": "Burnley"
+    }, {
+      "date": ["Saturday 12 Aug 2017"],
+      "home": ["Crystal Palace"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 12 Aug 2017"],
+      "home": ["Everton"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Sunday 13 Aug 2017"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Sunday 13 Aug 2017"],
+      "home": ["Newcastle United"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Sunday 13 Aug 2017"],
+      "home": ["Manchester United"],
+      "away": "West Ham United"
+    }]
+  },
+  {
+    "week": "Week 2",
+    "matches": [{
+      "date": ["Saturday 19 Aug 2017"],
+      "home": ["Swansea City"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Saturday 19 Aug 2017"],
+      "home": ["Southampton"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Saturday 19 Aug 2017"],
+      "home": ["AFC Bournemouth"],
+      "away": "Watford"
+    }, {
+      "date": ["Saturday 19 Aug 2017"],
+      "home": ["Burnley"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Saturday 19 Aug 2017"],
+      "home": ["Leicester City"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Saturday 19 Aug 2017"],
+      "home": ["Liverpool"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Sunday 20 Aug 2017"],
+      "home": ["Stoke City"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Sunday 20 Aug 2017"],
+      "home": ["Huddersfield Town"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Sunday 20 Aug 2017"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Tuesday 22 Aug 2017"],
+      "home": ["Manchester City"],
+      "away": "Everton"
+    }]
+  },
+  {
+    "week": "Week 3",
+    "matches": [{
+      "date": ["Saturday 26 Aug 2017"],
+      "home": ["AFC Bournemouth"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Saturday 26 Aug 2017"],
+      "home": ["Crystal Palace"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Saturday 26 Aug 2017"],
+      "home": ["Huddersfield Town"],
+      "away": "Southampton"
+    }, {
+      "date": ["Saturday 26 Aug 2017"],
+      "home": ["Newcastle United"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Saturday 26 Aug 2017"],
+      "home": ["Watford"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Sunday 27 Aug 2017"],
+      "home": ["Manchester United"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Sunday 27 Aug 2017"],
+      "home": ["West Bromwich Albion"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Sunday 27 Aug 2017"],
+      "home": ["Chelsea"],
+      "away": "Everton"
+    }, {
+      "date": ["Sunday 27 Aug 2017"],
+      "home": ["Liverpool"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Sunday 27 Aug 2017"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Burnley"
+    }]
+  },
+  {
+    "week": "Week 4",
+    "matches": [{
+      "date": ["Saturday 9 Sep 2017"],
+      "home": ["Manchester City"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Saturday 9 Sep 2017"],
+      "home": ["Southampton"],
+      "away": "Watford"
+    }, {
+      "date": ["Saturday 9 Sep 2017"],
+      "home": ["Arsenal"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Saturday 9 Sep 2017"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Saturday 9 Sep 2017"],
+      "home": ["Everton"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Saturday 9 Sep 2017"],
+      "home": ["Leicester City"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Sunday 10 Sep 2017"],
+      "home": ["Stoke City"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Sunday 10 Sep 2017"],
+      "home": ["Burnley"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Sunday 10 Sep 2017"],
+      "home": ["Swansea City"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Tuesday 12 Sep 2017"],
+      "home": ["West Ham United"],
+      "away": "Huddersfield Town"
+    }]
+  },
+  {
+    "week": "Week 5",
+    "matches": [{
+      "date": ["Saturday 16 Sep 2017"],
+      "home": ["AFC Bournemouth"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Saturday 16 Sep 2017"],
+      "home": ["Crystal Palace"],
+      "away": "Southampton"
+    }, {
+      "date": ["Saturday 16 Sep 2017"],
+      "home": ["Huddersfield Town"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Saturday 16 Sep 2017"],
+      "home": ["Liverpool"],
+      "away": "Burnley"
+    }, {
+      "date": ["Saturday 16 Sep 2017"],
+      "home": ["Newcastle United"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Saturday 16 Sep 2017"],
+      "home": ["Watford"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Saturday 16 Sep 2017"],
+      "home": ["West Bromwich Albion"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Sunday 17 Sep 2017"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Sunday 17 Sep 2017"],
+      "home": ["Chelsea"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Sunday 17 Sep 2017"],
+      "home": ["Manchester United"],
+      "away": "Everton"
+    }]
+  },
+  {
+    "week": "Week 6",
+    "matches": [{
+      "date": ["Saturday 23 Sep 2017"],
+      "home": ["West Ham United"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Saturday 23 Sep 2017"],
+      "home": ["Burnley"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 23 Sep 2017"],
+      "home": ["Everton"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Saturday 23 Sep 2017"],
+      "home": ["Manchester City"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Saturday 23 Sep 2017"],
+      "home": ["Southampton"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Saturday 23 Sep 2017"],
+      "home": ["Stoke City"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Saturday 23 Sep 2017"],
+      "home": ["Swansea City"],
+      "away": "Watford"
+    }, {
+      "date": ["Sunday 24 Sep 2017"],
+      "home": ["Leicester City"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Sunday 24 Sep 2017"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Tuesday 26 Sep 2017"],
+      "home": ["Arsenal"],
+      "away": "West Bromwich Albion"
+    }]
+  },
+  {
+    "week": "Week 7",
+    "matches": [{
+      "date": ["Saturday 30 Sep 2017"],
+      "home": ["Huddersfield Town"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Saturday 30 Sep 2017"],
+      "home": ["Manchester United"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Saturday 30 Sep 2017"],
+      "home": ["Stoke City"],
+      "away": "Southampton"
+    }, {
+      "date": ["Saturday 30 Sep 2017"],
+      "home": ["West Bromwich Albion"],
+      "away": "Watford"
+    }, {
+      "date": ["Saturday 30 Sep 2017"],
+      "home": ["West Ham United"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Saturday 30 Sep 2017"],
+      "home": ["AFC Bournemouth"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Sunday 1 Oct 2017"],
+      "home": ["Chelsea"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Sunday 1 Oct 2017"],
+      "home": ["Arsenal"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Sunday 1 Oct 2017"],
+      "home": ["Everton"],
+      "away": "Burnley"
+    }, {
+      "date": ["Sunday 1 Oct 2017"],
+      "home": ["Newcastle United"],
+      "away": "Liverpool"
+    }]
+  },
+  {
+    "week": "Week 8",
+    "matches": [{
+      "date": ["Saturday 14 Oct 2017"],
+      "home": ["Liverpool"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Saturday 14 Oct 2017"],
+      "home": ["Manchester City"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Saturday 14 Oct 2017"],
+      "home": ["Burnley"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Saturday 14 Oct 2017"],
+      "home": ["Crystal Palace"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Saturday 14 Oct 2017"],
+      "home": ["Swansea City"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 14 Oct 2017"],
+      "home": ["Tottenham Hotspur"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Sunday 15 Oct 2017"],
+      "home": ["Watford"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Sunday 15 Oct 2017"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Everton"
+    }, {
+      "date": ["Sunday 15 Oct 2017"],
+      "home": ["Southampton"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Tuesday 17 Oct 2017"],
+      "home": ["Leicester City"],
+      "away": "West Bromwich Albion"
+    }]
+  },
+  {
+    "week": "Week 9",
+    "matches": [{
+      "date": ["Saturday 21 Oct 2017"],
+      "home": ["West Ham United"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Saturday 21 Oct 2017"],
+      "home": ["Chelsea"],
+      "away": "Watford"
+    }, {
+      "date": ["Saturday 21 Oct 2017"],
+      "home": ["Stoke City"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Saturday 21 Oct 2017"],
+      "home": ["Swansea City"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Saturday 21 Oct 2017"],
+      "home": ["Huddersfield Town"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Saturday 21 Oct 2017"],
+      "home": ["Manchester City"],
+      "away": "Burnley"
+    }, {
+      "date": ["Saturday 21 Oct 2017"],
+      "home": ["Newcastle United"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Sunday 22 Oct 2017"],
+      "home": ["Southampton"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Sunday 22 Oct 2017"],
+      "home": ["Everton"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Sunday 22 Oct 2017"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Liverpool"
+    }]
+  },
+  {
+    "week": "Week 10",
+    "matches": [{
+      "date": ["Saturday 28 Oct 2017"],
+      "home": ["Manchester United"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Saturday 28 Oct 2017"],
+      "home": ["Watford"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Saturday 28 Oct 2017"],
+      "home": ["West Bromwich Albion"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Saturday 28 Oct 2017"],
+      "home": ["Liverpool"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 28 Oct 2017"],
+      "home": ["Arsenal"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Saturday 28 Oct 2017"],
+      "home": ["Crystal Palace"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Sunday 29 Oct 2017"],
+      "home": ["AFC Bournemouth"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Sunday 29 Oct 2017"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Southampton"
+    }, {
+      "date": ["Monday 30 Oct 2017"],
+      "home": ["Leicester City"],
+      "away": "Everton"
+    }, {
+      "date": ["Tuesday 31 Oct 2017"],
+      "home": ["Burnley"],
+      "away": "Newcastle United"
+    }]
+  },
+  {
+    "week": "Week 11",
+    "matches": [{
+      "date": ["Saturday 4 Nov 2017"],
+      "home": ["Stoke City"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Saturday 4 Nov 2017"],
+      "home": ["Swansea City"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Saturday 4 Nov 2017"],
+      "home": ["Newcastle United"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Saturday 4 Nov 2017"],
+      "home": ["Southampton"],
+      "away": "Burnley"
+    }, {
+      "date": ["Saturday 4 Nov 2017"],
+      "home": ["Huddersfield Town"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Sunday 5 Nov 2017"],
+      "home": ["West Ham United"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Sunday 5 Nov 2017"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Sunday 5 Nov 2017"],
+      "home": ["Manchester City"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Monday 6 Nov 2017"],
+      "home": ["Chelsea"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Monday 6 Nov 2017"],
+      "home": ["Everton"],
+      "away": "Watford"
+    }]
+  },
+  {
+    "week": "Week 12",
+    "matches": [{
+      "date": ["Saturday 18 Nov 2017"],
+      "home": ["Arsenal"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Saturday 18 Nov 2017"],
+      "home": ["AFC Bournemouth"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 18 Nov 2017"],
+      "home": ["West Bromwich Albion"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Saturday 18 Nov 2017"],
+      "home": ["Burnley"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Saturday 18 Nov 2017"],
+      "home": ["Crystal Palace"],
+      "away": "Everton"
+    }, {
+      "date": ["Saturday 18 Nov 2017"],
+      "home": ["Leicester City"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Saturday 18 Nov 2017"],
+      "home": ["Liverpool"],
+      "away": "Southampton"
+    }, {
+      "date": ["Sunday 19 Nov 2017"],
+      "home": ["Manchester United"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Monday 20 Nov 2017"],
+      "home": ["Watford"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Tuesday 21 Nov 2017"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Stoke City"
+    }]
+  },
+  {
+    "week": "Week 13",
+    "matches": [{
+      "date": ["Saturday 25 Nov 2017"],
+      "home": ["West Ham United"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Saturday 25 Nov 2017"],
+      "home": ["Crystal Palace"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Saturday 25 Nov 2017"],
+      "home": ["Manchester United"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Saturday 25 Nov 2017"],
+      "home": ["Newcastle United"],
+      "away": "Watford"
+    }, {
+      "date": ["Saturday 25 Nov 2017"],
+      "home": ["Swansea City"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Saturday 25 Nov 2017"],
+      "home": ["Tottenham Hotspur"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Sunday 26 Nov 2017"],
+      "home": ["Liverpool"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Sunday 26 Nov 2017"],
+      "home": ["Southampton"],
+      "away": "Everton"
+    }, {
+      "date": ["Sunday 26 Nov 2017"],
+      "home": ["Burnley"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Monday 27 Nov 2017"],
+      "home": ["Huddersfield Town"],
+      "away": "Manchester City"
+    }]
+  },
+  {
+    "week": "Week 14",
+    "matches": [{
+      "date": ["Wednesday 29 Nov 2017"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Wednesday 29 Nov 2017"],
+      "home": ["Leicester City"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Wednesday 29 Nov 2017"],
+      "home": ["Watford"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Wednesday 29 Nov 2017"],
+      "home": ["West Bromwich Albion"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Thursday 30 Nov 2017"],
+      "home": ["Chelsea"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Thursday 30 Nov 2017"],
+      "home": ["AFC Bournemouth"],
+      "away": "Burnley"
+    }, {
+      "date": ["Thursday 30 Nov 2017"],
+      "home": ["Arsenal"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Thursday 30 Nov 2017"],
+      "home": ["Everton"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Thursday 30 Nov 2017"],
+      "home": ["Manchester City"],
+      "away": "Southampton"
+    }, {
+      "date": ["Thursday 30 Nov 2017"],
+      "home": ["Stoke City"],
+      "away": "Liverpool"
+    }]
+  },
+  {
+    "week": "Week 15",
+    "matches": [{
+      "date": ["Saturday 2 Dec 2017"],
+      "home": ["Chelsea"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Saturday 2 Dec 2017"],
+      "home": ["Everton"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 2 Dec 2017"],
+      "home": ["Leicester City"],
+      "away": "Burnley"
+    }, {
+      "date": ["Saturday 2 Dec 2017"],
+      "home": ["Stoke City"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Saturday 2 Dec 2017"],
+      "home": ["Watford"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Saturday 2 Dec 2017"],
+      "home": ["West Bromwich Albion"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Saturday 2 Dec 2017"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Sunday 3 Dec 2017"],
+      "home": ["Arsenal"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Sunday 3 Dec 2017"],
+      "home": ["AFC Bournemouth"],
+      "away": "Southampton"
+    }, {
+      "date": ["Monday 4 Dec 2017"],
+      "home": ["Manchester City"],
+      "away": "West Ham United"
+    }]
+  },
+  {
+    "week": "Week 16",
+    "matches": [{
+      "date": ["Saturday 9 Dec 2017"],
+      "home": ["West Ham United"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Saturday 9 Dec 2017"],
+      "home": ["Burnley"],
+      "away": "Watford"
+    }, {
+      "date": ["Saturday 9 Dec 2017"],
+      "home": ["Crystal Palace"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Saturday 9 Dec 2017"],
+      "home": ["Huddersfield Town"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Saturday 9 Dec 2017"],
+      "home": ["Swansea City"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Saturday 9 Dec 2017"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Sunday 10 Dec 2017"],
+      "home": ["Newcastle United"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Sunday 10 Dec 2017"],
+      "home": ["Southampton"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Sunday 10 Dec 2017"],
+      "home": ["Liverpool"],
+      "away": "Everton"
+    }, {
+      "date": ["Monday 11 Dec 2017"],
+      "home": ["Manchester United"],
+      "away": "Manchester City"
+    }]
+  },
+  {
+    "week": "Week 17",
+    "matches": [{
+      "date": ["Wednesday 13 Dec 2017"],
+      "home": ["Burnley"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Wednesday 13 Dec 2017"],
+      "home": ["Huddersfield Town"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Wednesday 13 Dec 2017"],
+      "home": ["Crystal Palace"],
+      "away": "Watford"
+    }, {
+      "date": ["Thursday 14 Dec 2017"],
+      "home": ["Swansea City"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Thursday 14 Dec 2017"],
+      "home": ["Newcastle United"],
+      "away": "Everton"
+    }, {
+      "date": ["Thursday 14 Dec 2017"],
+      "home": ["Southampton"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Thursday 14 Dec 2017"],
+      "home": ["Liverpool"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Thursday 14 Dec 2017"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Thursday 14 Dec 2017"],
+      "home": ["West Ham United"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Thursday 14 Dec 2017"],
+      "home": ["Manchester United"],
+      "away": "AFC Bournemouth"
+    }]
+  },
+  {
+    "week": "Week 18",
+    "matches": [{
+      "date": ["Saturday 16 Dec 2017"],
+      "home": ["Leicester City"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Saturday 16 Dec 2017"],
+      "home": ["Stoke City"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Saturday 16 Dec 2017"],
+      "home": ["Watford"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 16 Dec 2017"],
+      "home": ["Arsenal"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Saturday 16 Dec 2017"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Burnley"
+    }, {
+      "date": ["Saturday 16 Dec 2017"],
+      "home": ["Chelsea"],
+      "away": "Southampton"
+    }, {
+      "date": ["Sunday 17 Dec 2017"],
+      "home": ["Manchester City"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Sunday 17 Dec 2017"],
+      "home": ["West Bromwich Albion"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Monday 18 Dec 2017"],
+      "home": ["AFC Bournemouth"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Tuesday 19 Dec 2017"],
+      "home": ["Everton"],
+      "away": "Swansea City"
+    }]
+  },
+  {
+    "week": "Week 19",
+    "matches": [{
+      "date": ["Saturday 23 Dec 2017"],
+      "home": ["Arsenal"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Saturday 23 Dec 2017"],
+      "home": ["Everton"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Saturday 23 Dec 2017"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Watford"
+    }, {
+      "date": ["Saturday 23 Dec 2017"],
+      "home": ["Manchester City"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Saturday 23 Dec 2017"],
+      "home": ["Southampton"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 23 Dec 2017"],
+      "home": ["Stoke City"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Saturday 23 Dec 2017"],
+      "home": ["Swansea City"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Saturday 23 Dec 2017"],
+      "home": ["West Ham United"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Sunday 24 Dec 2017"],
+      "home": ["Burnley"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Sunday 24 Dec 2017"],
+      "home": ["Leicester City"],
+      "away": "Manchester United"
+    }]
+  },
+  {
+    "week": "Week 20",
+    "matches": [{
+      "date": ["Tuesday 26 Dec 2017"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Southampton"
+    }, {
+      "date": ["Tuesday 26 Dec 2017"],
+      "home": ["Watford"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Tuesday 26 Dec 2017"],
+      "home": ["West Bromwich Albion"],
+      "away": "Everton"
+    }, {
+      "date": ["Tuesday 26 Dec 2017"],
+      "home": ["Manchester United"],
+      "away": "Burnley"
+    }, {
+      "date": ["Tuesday 26 Dec 2017"],
+      "home": ["AFC Bournemouth"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Tuesday 26 Dec 2017"],
+      "home": ["Chelsea"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Tuesday 26 Dec 2017"],
+      "home": ["Huddersfield Town"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Wednesday 27 Dec 2017"],
+      "home": ["Liverpool"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Thursday 28 Dec 2017"],
+      "home": ["Newcastle United"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Friday 29 Dec 2017"],
+      "home": ["Crystal Palace"],
+      "away": "Arsenal"
+    }]
+  },
+  {
+    "week": "Week 21",
+    "matches": [{
+      "date": ["Saturday 30 Dec 2017"],
+      "home": ["AFC Bournemouth"],
+      "away": "Everton"
+    }, {
+      "date": ["Saturday 30 Dec 2017"],
+      "home": ["Chelsea"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Saturday 30 Dec 2017"],
+      "home": ["Huddersfield Town"],
+      "away": "Burnley"
+    }, {
+      "date": ["Saturday 30 Dec 2017"],
+      "home": ["Liverpool"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Saturday 30 Dec 2017"],
+      "home": ["Newcastle United"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Saturday 30 Dec 2017"],
+      "home": ["Watford"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Sunday 31 Dec 2017"],
+      "home": ["Manchester United"],
+      "away": "Southampton"
+    }, {
+      "date": ["Sunday 31 Dec 2017"],
+      "home": ["Crystal Palace"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Sunday 31 Dec 2017"],
+      "home": ["Tottenham Hotspur"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Monday 1 Jan 2018"],
+      "home": ["West Bromwich Albion"],
+      "away": "Arsenal"
+    }]
+  },
+  {
+    "week": "Week 22",
+    "matches": [{
+      "date": ["Monday 1 Jan 2018"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Monday 1 Jan 2018"],
+      "home": ["Burnley"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Monday 1 Jan 2018"],
+      "home": ["Leicester City"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Monday 1 Jan 2018"],
+      "home": ["Stoke City"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Tuesday 2 Jan 2018"],
+      "home": ["Everton"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Wednesday 3 Jan 2018"],
+      "home": ["Swansea City"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Wednesday 3 Jan 2018"],
+      "home": ["West Ham United"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Wednesday 3 Jan 2018"],
+      "home": ["Southampton"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Wednesday 3 Jan 2018"],
+      "home": ["Manchester City"],
+      "away": "Watford"
+    }, {
+      "date": ["Thursday 4 Jan 2018"],
+      "home": ["Arsenal"],
+      "away": "Chelsea"
+    }]
+  },
+  {
+    "week": "Week 23",
+    "matches": [{
+      "date": ["Saturday 13 Jan 2018"],
+      "home": ["Chelsea"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Saturday 13 Jan 2018"],
+      "home": ["Crystal Palace"],
+      "away": "Burnley"
+    }, {
+      "date": ["Saturday 13 Jan 2018"],
+      "home": ["Huddersfield Town"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Saturday 13 Jan 2018"],
+      "home": ["Manchester United"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Saturday 13 Jan 2018"],
+      "home": ["Newcastle United"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Saturday 13 Jan 2018"],
+      "home": ["Watford"],
+      "away": "Southampton"
+    }, {
+      "date": ["Saturday 13 Jan 2018"],
+      "home": ["West Bromwich Albion"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Sunday 14 Jan 2018"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Everton"
+    }, {
+      "date": ["Sunday 14 Jan 2018"],
+      "home": ["AFC Bournemouth"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Monday 15 Jan 2018"],
+      "home": ["Liverpool"],
+      "away": "Manchester City"
+    }]
+  },
+  {
+    "week": "Week 24",
+    "matches": [{
+      "date": ["Saturday 20 Jan 2018"],
+      "home": ["Arsenal"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Saturday 20 Jan 2018"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Saturday 20 Jan 2018"],
+      "home": ["Burnley"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Saturday 20 Jan 2018"],
+      "home": ["Everton"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Saturday 20 Jan 2018"],
+      "home": ["Leicester City"],
+      "away": "Watford"
+    }, {
+      "date": ["Saturday 20 Jan 2018"],
+      "home": ["Manchester City"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Saturday 20 Jan 2018"],
+      "home": ["Southampton"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Saturday 20 Jan 2018"],
+      "home": ["Stoke City"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 20 Jan 2018"],
+      "home": ["Swansea City"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Saturday 20 Jan 2018"],
+      "home": ["West Ham United"],
+      "away": "AFC Bournemouth"
+    }]
+  },
+  {
+    "week": "Week 25",
+    "matches": [{
+      "date": ["Wednesday 31 Jan 2018"],
+      "home": ["Huddersfield Town"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Wednesday 31 Jan 2018"],
+      "home": ["Swansea City"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Wednesday 31 Jan 2018"],
+      "home": ["West Ham United"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Thursday 1 Feb 2018"],
+      "home": ["Chelsea"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Thursday 1 Feb 2018"],
+      "home": ["Everton"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Thursday 1 Feb 2018"],
+      "home": ["Newcastle United"],
+      "away": "Burnley"
+    }, {
+      "date": ["Thursday 1 Feb 2018"],
+      "home": ["Southampton"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Thursday 1 Feb 2018"],
+      "home": ["Manchester City"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Thursday 1 Feb 2018"],
+      "home": ["Stoke City"],
+      "away": "Watford"
+    }, {
+      "date": ["Thursday 1 Feb 2018"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Manchester United"
+    }]
+  },
+  {
+    "week": "Week 26",
+    "matches": [{
+      "date": ["Saturday 3 Feb 2018"],
+      "home": ["AFC Bournemouth"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Saturday 3 Feb 2018"],
+      "home": ["Arsenal"],
+      "away": "Everton"
+    }, {
+      "date": ["Saturday 3 Feb 2018"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Saturday 3 Feb 2018"],
+      "home": ["Burnley"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Saturday 3 Feb 2018"],
+      "home": ["Crystal Palace"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Saturday 3 Feb 2018"],
+      "home": ["Leicester City"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Saturday 3 Feb 2018"],
+      "home": ["Liverpool"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Saturday 3 Feb 2018"],
+      "home": ["Manchester United"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 3 Feb 2018"],
+      "home": ["Watford"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Saturday 3 Feb 2018"],
+      "home": ["West Bromwich Albion"],
+      "away": "Southampton"
+    }]
+  },
+  {
+    "week": "Week 27",
+    "matches": [{
+      "date": ["Saturday 10 Feb 2018"],
+      "home": ["Chelsea"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Saturday 10 Feb 2018"],
+      "home": ["Everton"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Saturday 10 Feb 2018"],
+      "home": ["Huddersfield Town"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Saturday 10 Feb 2018"],
+      "home": ["Manchester City"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Saturday 10 Feb 2018"],
+      "home": ["Newcastle United"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Saturday 10 Feb 2018"],
+      "home": ["Southampton"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Saturday 10 Feb 2018"],
+      "home": ["Stoke City"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Saturday 10 Feb 2018"],
+      "home": ["Swansea City"],
+      "away": "Burnley"
+    }, {
+      "date": ["Saturday 10 Feb 2018"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Saturday 10 Feb 2018"],
+      "home": ["West Ham United"],
+      "away": "Watford"
+    }]
+  },
+  {
+    "week": "Week 28",
+    "matches": [{
+      "date": ["Saturday 24 Feb 2018"],
+      "home": ["AFC Bournemouth"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Saturday 24 Feb 2018"],
+      "home": ["Arsenal"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Saturday 24 Feb 2018"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Saturday 24 Feb 2018"],
+      "home": ["Burnley"],
+      "away": "Southampton"
+    }, {
+      "date": ["Saturday 24 Feb 2018"],
+      "home": ["Crystal Palace"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Saturday 24 Feb 2018"],
+      "home": ["Leicester City"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Saturday 24 Feb 2018"],
+      "home": ["Liverpool"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Saturday 24 Feb 2018"],
+      "home": ["Manchester United"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Saturday 24 Feb 2018"],
+      "home": ["Watford"],
+      "away": "Everton"
+    }, {
+      "date": ["Saturday 24 Feb 2018"],
+      "home": ["West Bromwich Albion"],
+      "away": "Huddersfield Town"
+    }]
+  },
+  {
+    "week": "Week 29",
+    "matches": [{
+      "date": ["Saturday 3 Mar 2018"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Saturday 3 Mar 2018"],
+      "home": ["Burnley"],
+      "away": "Everton"
+    }, {
+      "date": ["Saturday 3 Mar 2018"],
+      "home": ["Crystal Palace"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Saturday 3 Mar 2018"],
+      "home": ["Leicester City"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Saturday 3 Mar 2018"],
+      "home": ["Liverpool"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Saturday 3 Mar 2018"],
+      "home": ["Manchester City"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Saturday 3 Mar 2018"],
+      "home": ["Southampton"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Saturday 3 Mar 2018"],
+      "home": ["Swansea City"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Saturday 3 Mar 2018"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 3 Mar 2018"],
+      "home": ["Watford"],
+      "away": "West Bromwich Albion"
+    }]
+  },
+  {
+    "week": "Week 30",
+    "matches": [{
+      "date": ["Saturday 10 Mar 2018"],
+      "home": ["AFC Bournemouth"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Saturday 10 Mar 2018"],
+      "home": ["Arsenal"],
+      "away": "Watford"
+    }, {
+      "date": ["Saturday 10 Mar 2018"],
+      "home": ["Chelsea"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Saturday 10 Mar 2018"],
+      "home": ["Everton"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Saturday 10 Mar 2018"],
+      "home": ["Huddersfield Town"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Saturday 10 Mar 2018"],
+      "home": ["Manchester United"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Saturday 10 Mar 2018"],
+      "home": ["Newcastle United"],
+      "away": "Southampton"
+    }, {
+      "date": ["Saturday 10 Mar 2018"],
+      "home": ["Stoke City"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Saturday 10 Mar 2018"],
+      "home": ["West Bromwich Albion"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Saturday 10 Mar 2018"],
+      "home": ["West Ham United"],
+      "away": "Burnley"
+    }]
+  },
+  {
+    "week": "Week 31",
+    "matches": [{
+      "date": ["Saturday 17 Mar 2018"],
+      "home": ["AFC Bournemouth"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Saturday 17 Mar 2018"],
+      "home": ["Burnley"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Saturday 17 Mar 2018"],
+      "home": ["Huddersfield Town"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Saturday 17 Mar 2018"],
+      "home": ["Leicester City"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Saturday 17 Mar 2018"],
+      "home": ["Liverpool"],
+      "away": "Watford"
+    }, {
+      "date": ["Saturday 17 Mar 2018"],
+      "home": ["Manchester City"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Saturday 17 Mar 2018"],
+      "home": ["Stoke City"],
+      "away": "Everton"
+    }, {
+      "date": ["Saturday 17 Mar 2018"],
+      "home": ["Swansea City"],
+      "away": "Southampton"
+    }, {
+      "date": ["Saturday 17 Mar 2018"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Saturday 17 Mar 2018"],
+      "home": ["West Ham United"],
+      "away": "Manchester United"
+    }]
+  },
+  {
+    "week": "Week 32",
+    "matches": [{
+      "date": ["Saturday 31 Mar 2018"],
+      "home": ["West Ham United"],
+      "away": "Southampton"
+    }, {
+      "date": ["Saturday 31 Mar 2018"],
+      "home": ["Arsenal"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Saturday 31 Mar 2018"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Saturday 31 Mar 2018"],
+      "home": ["Chelsea"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Saturday 31 Mar 2018"],
+      "home": ["Crystal Palace"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Saturday 31 Mar 2018"],
+      "home": ["Everton"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Saturday 31 Mar 2018"],
+      "home": ["Manchester United"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Saturday 31 Mar 2018"],
+      "home": ["Newcastle United"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 31 Mar 2018"],
+      "home": ["Watford"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Saturday 31 Mar 2018"],
+      "home": ["West Bromwich Albion"],
+      "away": "Burnley"
+    }]
+  },
+  {
+    "week": "Week 33",
+    "matches": [{
+      "date": ["Saturday 7 Apr 2018"],
+      "home": ["AFC Bournemouth"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Saturday 7 Apr 2018"],
+      "home": ["Arsenal"],
+      "away": "Southampton"
+    }, {
+      "date": ["Saturday 7 Apr 2018"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 7 Apr 2018"],
+      "home": ["Chelsea"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Saturday 7 Apr 2018"],
+      "home": ["Everton"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Saturday 7 Apr 2018"],
+      "home": ["Leicester City"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Saturday 7 Apr 2018"],
+      "home": ["Manchester City"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Saturday 7 Apr 2018"],
+      "home": ["Stoke City"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Saturday 7 Apr 2018"],
+      "home": ["Watford"],
+      "away": "Burnley"
+    }, {
+      "date": ["Saturday 7 Apr 2018"],
+      "home": ["West Bromwich Albion"],
+      "away": "Swansea City"
+    }]
+  },
+  {
+    "week": "Week 34",
+    "matches": [{
+      "date": ["Saturday 14 Apr 2018"],
+      "home": ["Burnley"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Saturday 14 Apr 2018"],
+      "home": ["Crystal Palace"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Saturday 14 Apr 2018"],
+      "home": ["Huddersfield Town"],
+      "away": "Watford"
+    }, {
+      "date": ["Saturday 14 Apr 2018"],
+      "home": ["Liverpool"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Saturday 14 Apr 2018"],
+      "home": ["Manchester United"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Saturday 14 Apr 2018"],
+      "home": ["Newcastle United"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Saturday 14 Apr 2018"],
+      "home": ["Southampton"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Saturday 14 Apr 2018"],
+      "home": ["Swansea City"],
+      "away": "Everton"
+    }, {
+      "date": ["Saturday 14 Apr 2018"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Saturday 14 Apr 2018"],
+      "home": ["West Ham United"],
+      "away": "Stoke City"
+    }]
+  },
+  {
+    "week": "Week 35",
+    "matches": [{
+      "date": ["Saturday 21 Apr 2018"],
+      "home": ["AFC Bournemouth"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Saturday 21 Apr 2018"],
+      "home": ["Arsenal"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Saturday 21 Apr 2018"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Tottenham Hotspur"
+    }, {
+      "date": ["Saturday 21 Apr 2018"],
+      "home": ["Chelsea"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 21 Apr 2018"],
+      "home": ["Everton"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Saturday 21 Apr 2018"],
+      "home": ["Leicester City"],
+      "away": "Southampton"
+    }, {
+      "date": ["Saturday 21 Apr 2018"],
+      "home": ["Manchester City"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Saturday 21 Apr 2018"],
+      "home": ["Stoke City"],
+      "away": "Burnley"
+    }, {
+      "date": ["Saturday 21 Apr 2018"],
+      "home": ["Watford"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Saturday 21 Apr 2018"],
+      "home": ["West Bromwich Albion"],
+      "away": "Liverpool"
+    }]
+  },
+  {
+    "week": "Week 36",
+    "matches": [{
+      "date": ["Saturday 28 Apr 2018"],
+      "home": ["Burnley"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Saturday 28 Apr 2018"],
+      "home": ["Crystal Palace"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Saturday 28 Apr 2018"],
+      "home": ["Huddersfield Town"],
+      "away": "Everton"
+    }, {
+      "date": ["Saturday 28 Apr 2018"],
+      "home": ["Liverpool"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Saturday 28 Apr 2018"],
+      "home": ["Manchester United"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Saturday 28 Apr 2018"],
+      "home": ["Newcastle United"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Saturday 28 Apr 2018"],
+      "home": ["Southampton"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Saturday 28 Apr 2018"],
+      "home": ["Swansea City"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Saturday 28 Apr 2018"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Watford"
+    }, {
+      "date": ["Saturday 28 Apr 2018"],
+      "home": ["West Ham United"],
+      "away": "Manchester City"
+    }]
+  },
+  {
+    "week": "Week 37",
+    "matches": [{
+      "date": ["Saturday 5 May 2018"],
+      "home": ["AFC Bournemouth"],
+      "away": "Swansea City"
+    }, {
+      "date": ["Saturday 5 May 2018"],
+      "home": ["Arsenal"],
+      "away": "Burnley"
+    }, {
+      "date": ["Saturday 5 May 2018"],
+      "home": ["Brighton & Hove Albion"],
+      "away": "Manchester United"
+    }, {
+      "date": ["Saturday 5 May 2018"],
+      "home": ["Chelsea"],
+      "away": "Liverpool"
+    }, {
+      "date": ["Saturday 5 May 2018"],
+      "home": ["Everton"],
+      "away": "Southampton"
+    }, {
+      "date": ["Saturday 5 May 2018"],
+      "home": ["Leicester City"],
+      "away": "West Ham United"
+    }, {
+      "date": ["Saturday 5 May 2018"],
+      "home": ["Manchester City"],
+      "away": "Huddersfield Town"
+    }, {
+      "date": ["Saturday 5 May 2018"],
+      "home": ["Stoke City"],
+      "away": "Crystal Palace"
+    }, {
+      "date": ["Saturday 5 May 2018"],
+      "home": ["Watford"],
+      "away": "Newcastle United"
+    }, {
+      "date": ["Saturday 5 May 2018"],
+      "home": ["West Bromwich Albion"],
+      "away": "Tottenham Hotspur"
+    }]
+  },
+  {
+    "week": "Week 38",
+    "matches": [{
+      "date": ["Sunday 13 May 2018"],
+      "home": ["Burnley"],
+      "away": "AFC Bournemouth"
+    }, {
+      "date": ["Sunday 13 May 2018"],
+      "home": ["Crystal Palace"],
+      "away": "West Bromwich Albion"
+    }, {
+      "date": ["Sunday 13 May 2018"],
+      "home": ["Huddersfield Town"],
+      "away": "Arsenal"
+    }, {
+      "date": ["Sunday 13 May 2018"],
+      "home": ["Liverpool"],
+      "away": "Brighton & Hove Albion"
+    }, {
+      "date": ["Sunday 13 May 2018"],
+      "home": ["Manchester United"],
+      "away": "Watford"
+    }, {
+      "date": ["Sunday 13 May 2018"],
+      "home": ["Newcastle United"],
+      "away": "Chelsea"
+    }, {
+      "date": ["Sunday 13 May 2018"],
+      "home": ["Southampton"],
+      "away": "Manchester City"
+    }, {
+      "date": ["Sunday 13 May 2018"],
+      "home": ["Swansea City"],
+      "away": "Stoke City"
+    }, {
+      "date": ["Sunday 13 May 2018"],
+      "home": ["Tottenham Hotspur"],
+      "away": "Leicester City"
+    }, {
+      "date": ["Sunday 13 May 2018"],
+      "home": ["West Ham United"],
+      "away": "Everton"
+    }]
+  }
+]
