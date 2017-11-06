@@ -14,7 +14,9 @@ class ProdConfig(Config):
         config: the parent class
     '''
 
-    SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")
+    # SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")
+    SQLALCHEMY_DATABASE_URI='sqlite:///database_sports.db'
+
 
 class DevConfig(Config):
     '''
