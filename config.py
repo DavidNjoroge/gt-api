@@ -13,10 +13,8 @@ class ProdConfig(Config):
     args:
         config: the parent class
     '''
-    pass
-# class TestConfig(Config):
-#     SQLALCHEMY_DATABASE_URI='postgresql+psycopg2://chutha:chutha@localhost/watchlist_test'
-#
+
+    SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")
 
 class DevConfig(Config):
     '''
@@ -25,9 +23,8 @@ class DevConfig(Config):
     args:
         config: the parent class
     '''
-    SQLALCHEMY_DATABASE_URI='sqlite:///database_sports.db'
-    # SQLALCHEMY_DATABASE_URI='sqlite:////home/chutha/Documents/WORK/python/api-with-spiders/database_epl.db'
-
+    # SQLALCHEMY_DATABASE_URI='sqlite:///database_sports.db'
+    SQLALCHEMY_DATABASE_URI='postgresql+psycopg2://chutha:chutha@localhost/sports_api'
 
 
     DEBUG = True

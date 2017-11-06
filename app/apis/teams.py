@@ -59,30 +59,30 @@ class Scraped_fixtures(Resource):
 #                 match_object.save_fixture()
 #         print (len(week_list))
 #         return jsonify(week_list)
-
+#
 
         ## <><>><>>?>?>?>?>?><><><
         ## VERY IMPORTANT DONT DELETE
         ## <><>><>>?>?>?>?>?><><><
-    # @api.route('/')
-    # class Scraped_saved_teams(Resource):
-    #     def get(self):
-    #         teams=[]
-    #         json_data=open('week.json').read()
-    #         data=json.loads(json_data)
-    #         print (len(data[0]['week'][0]))
-    #         week=data[0]['week']
-    #         for fixture in week:
-    #             home=fixture['home'][0]
-    #             home_id=home.lower().replace(" ","-")
-    #             home_team=Team(team=home,team_id=home_id)
-    #             home_team.save_team()
-    #
-    #             away=fixture['away']
-    #             away_id=away.lower().replace(" ","-")
-    #             away_team=Team(team=away,team_id=away_id)
-    #             away_team.save_team()
-    #
-    #             teams.append(home)
-    #             teams.append(away)
-    #         return teams
+# @api.route('/')
+# class Scraped_saved_teams(Resource):
+#     def get(self):
+#         teams=[]
+#         json_data=open('week.json').read()
+#         data=json.loads(json_data)
+#         print (len(data[0]['week'][0]))
+#         week=data[0]['week']
+#         for fixture in week:
+#             home=fixture['home'][0]
+#             home_id=home.lower().replace(" ","-")
+#             home_team=Team(team=home,team_id=home_id)
+#             home_team.save_team()
+#
+#             away=fixture['away']
+#             away_id=away.lower().replace(" ","-")
+#             away_team=Team(team=away,team_id=away_id)
+#             away_team.save_team()
+#
+#             teams.append(home)
+#             teams.append(away)
+#         return teams
