@@ -80,40 +80,13 @@ class Match(db.Model):
             match_dict.append(object_dict)
         return match_dict
 
-    # @classmethod
-    # def get_week(cls):
-    #     teams=Team.query.all()
-    #     teams_list=[]
-    #     for teamq in teams:
-    #         each=teamq.team
-    #         teams_list.append(each)
-    #         return teams_list
+class League(db.Model):
+    __tablename__="leagues"
 
-
-    # def __repr__(self):
-    #     return f'Team {self.week}'
-
-# class Week(db.Model):
-#     __tablename__='weeks'
-#
-#     id=db.Column(db.Integer,primary_key=True)
-#     1=db.Column(db.Integer)
-#     2=db.Column(db.Integer)
-#     3=db.Column(db.Integer)
-#     4=db.Column(db.Integer)
-#     5=db.Column(db.Integer)
-#     6=db.Column(db.Integer)
-#     7=db.Column(db.Integer)
-#     8=db.Column(db.Integer)
-#     9=db.Column(db.Integer)
-#     10=db.Column(db.Integer)
-#     11=db.Column(db.Integer)
-#     12=db.Column(db.Integer)
-#     13=db.Column(db.Integer)
-#     14=db.Column(db.Integer)
-#     15=db.Column(db.Integer)
-#     16=db.Column(db.Integer)
-#     17=db.Column(db.Integer)
-#     18=db.Column(db.Integer)
-#     19=db.Column(db.Integer)
-#     20=db.Column(db.Integer)
+    id=db.Column(db.Integer,primary_key=True)
+    position=db.Column(db.Integer)
+    team=db.Column(db.String(255))
+    team_id=db.Column(db.String(255))
+    played=db.Column(db.Integer)
+    gd=db.Column(db.Integer)
+    points=db.Column(db.Integer)

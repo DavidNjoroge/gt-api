@@ -26,7 +26,9 @@ class DevConfig(Config):
         config: the parent class
     '''
     # SQLALCHEMY_DATABASE_URI='sqlite:///database_sports.db'
-    SQLALCHEMY_DATABASE_URI='postgresql+psycopg2://chutha:chutha@localhost/sports_api'
+    SQLALCHEMY_DATABASE_URI='sqlite:///database_sports.db'
+
+    # SQLALCHEMY_DATABASE_URI='postgresql+psycopg2://chutha:chutha@localhost/sports_api'
 
 
     DEBUG = True
