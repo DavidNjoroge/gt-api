@@ -66,8 +66,9 @@ class Match(db.Model):
         away_fixtures=Match.query.filter_by(away_team=team_name.id).all()
         all_fixtures=home_fixtures+away_fixtures
 
+        sorted_objs=sorted(all_fixtures, key=lambda fixture: fixture.id)
+        matches=Match.process_matches(sorted_objs)
 
-        matches=Match.process_matches(all_fixtures)
         return matches
     @classmethod
     def process_matches(cls,match_list):
@@ -80,6 +81,12 @@ class Match(db.Model):
             match_dict.append(object_dict)
         return match_dict
 
+    # @classmethod
+    # def sort_fixtures(cls,all_fixtures):
+    #     results=[]
+    #     for fixture in len(all_fixtures):
+    #
+
 class League(db.Model):
     __tablename__="leagues"
 
@@ -90,3 +97,7 @@ class League(db.Model):
     played=db.Column(db.Integer)
     gd=db.Column(db.Integer)
     points=db.Column(db.Integer)
+
+    def save_team(self):
+        db.session.add(self)
+        db.session.commit()
