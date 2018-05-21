@@ -4,9 +4,10 @@ from flask import Blueprint
 from flask_sqlalchemy import SQLAlchemy
 from config import config_options
 from flask import Flask
+from flask_marshmallow import Marshmallow
 
 db=SQLAlchemy()
-
+ma = Marshmallow()
 
 def create_app(config_name):
     app=Flask(__name__)
@@ -17,10 +18,14 @@ def create_app(config_name):
     #intializing flask extensions
     # bootstrap.init_app(app)
     db.init_app(app)
-
+    ma.init_app(app)
     # registering the blueprints
     from .apis import apis as main_blueprint
     app.register_blueprint(main_blueprint)
+
+
+    from .student import apis as student_blueprint
+    app.register_blueprint(student_blueprint)
 
     # from .spiders import spiders as spiders_blueprint
     # app.register_blueprint(spiders_blueprint)

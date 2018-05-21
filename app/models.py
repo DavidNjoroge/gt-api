@@ -1,5 +1,37 @@
 from . import db
 
+class Student(db.Model):
+    __tablename__='students'
+
+    id = db.Column(db.Integer,primary_key=True)
+    name = db.Column(db.String(100))
+    gender = db.Column(db.String(100))
+    reg_no = db.Column(db.Integer)
+    address = db.Column(db.String(100))
+    email = db.Column(db.Integer)
+    age = db.Column(db.Integer)
+    language = db.Column(db.String(100))
+    
+    def __init__(self,name,gender,reg_no,address,email,age,language):
+        self.name = name
+        self.gender = gender
+        self.reg_no = reg_no
+        self.address = address
+        self.email = email
+        self.age = age
+        self.language = language
+
+
+    def save(self):
+        db.session.add(self)
+        db.session.commit()
+
+    @classmethod
+    def get_all(cls):
+        students=Student.query.all()
+        return students
+
+
 class Team(db.Model):
     __tablename__='teams'
 

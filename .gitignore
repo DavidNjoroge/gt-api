@@ -1,7 +1,9 @@
-*.pyc
+*pyc
 virtual/
 week.json
 weeks_epl.json
 demoCrawler
 spiders
 core.py
+__pycache__/
+.vscode
