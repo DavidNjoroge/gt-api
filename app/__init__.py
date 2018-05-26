@@ -20,12 +20,12 @@ def create_app(config_name):
     db.init_app(app)
     ma.init_app(app)
     # registering the blueprints
-    from .apis import apis as main_blueprint
-    app.register_blueprint(main_blueprint)
-
 
     from .student import apis as student_blueprint
     app.register_blueprint(student_blueprint)
+
+    from .apis import apis as main_blueprint
+    app.register_blueprint(main_blueprint)
 
     # from .spiders import spiders as spiders_blueprint
     # app.register_blueprint(spiders_blueprint)

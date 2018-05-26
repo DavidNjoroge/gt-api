@@ -5,7 +5,7 @@ from . import ma
 class StudentSchema(ma.Schema):
     class Meta:
         # Fields to expose
-        fields = ('name','gender','reg_no','address', 'email','age','language')
+        fields = ('id','name','gender','reg_no','address', 'email','age','language')
 student_schema = StudentSchema()
 students_schema = StudentSchema(many=True)
 
